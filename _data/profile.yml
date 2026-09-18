@@ -1,58 +1,47 @@
-primary_name: "Your Name"
-secondary_name: ""
-navbar_name: "Your Name"
+primary_name: "陈彦朗"
+secondary_name: "陈彦朗"
+navbar_name: "陈彦朗"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: 计算机科学与技术专业 本科在读
+- name: 佛山大学
 
 
-email: "your@email.com"
+email: "1170512405@qq.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+# gscholar: your_google_scholar_id
+# github: your_github_id
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    陈彦朗是佛山大学计算机科学与技术专业本科生，专注于大语言模型（LLM）应用开发与 AI 系统工程实践。熟悉 Prompt Engineering、检索增强生成（RAG）与 Agent 智能体开发，具备从需求分析、系统设计、模型调用到部署落地的完整项目经验。
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    核心技能：Python、FastAPI、Spring Boot、Vue3、YOLOv8、LangChain4j、ChatGLM、MySQL、Redis、Git、Linux、Prompt Engineering、RAG、Agent 开发。
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Photo caption (optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: 佛山大学
+  position: 计算机科学与技术专业 本科
+  date: 2022.09 - 至今
 
 # experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+# - name: Organization Name
+#   position: Position
+#   date: Start - End
 
 awards:
-- name: Award Name 2
+- name: 大学英语四级证书
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: 蓝桥杯省赛二等奖
+  date: 2024
+- name: 软件设计师（全国软考）
+  date: 2024

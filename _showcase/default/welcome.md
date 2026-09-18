@@ -5,19 +5,18 @@ date: 2024-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h2>Welcome to Showcase!</h2>
+    <h2>欢迎来到展示页！</h2>
     <hr />
     <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        <code>展示（Showcase）</code> 用于呈现任何你想对外分享的内容——例如宠物照片、喜欢的书单、代表性项目，或其它任何希望展示给访客的内容。
     </p>
     <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
+        在 <code>_showcase</code> 目录下新建 Markdown 文件即可创建新的展示卡片，可使用任意 HTML 代码进行最大程度的自定义。
     </p>
     <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
+        卡片按 front matter 中的 <code>date</code> 字段倒序排列；<code>width</code> 字段用于控制卡片宽度，取值范围为 1 到 12。布局由 <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> 网格库完成。
     </p>
     <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
+        为保持整齐的布局，建议所有卡片的宽度设为 3 或 4 的倍数；仅占用少量空间的小徽章类卡片可设为 width=1。
     </p>
 </div>

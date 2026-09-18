@@ -4,6 +4,6 @@ width: 3
 date: 2020-01-12 00:01:00 +0800
 group: Cats
 ---
-<div>
-    <img data-src="{{ 'assets/images/etc/cat2.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="Caption of this image">
+<div class="p-4 text-center text-muted border rounded-xl d-flex align-items-center justify-content-center" style="min-height: 160px;">
+  <span>图片占位<br/><small>将图片放入 <code>assets/images/etc/</code></small></span>
 </div>

@@ -1,4 +1,4 @@
 ---
-title: Lorem ipsum sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+title: 占位新闻示例，用于演示动态列表的展示效果
 date: 2022-01-12 00:01:00 +0800
 ---
